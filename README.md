@@ -1,0 +1,2 @@
+# Intellimark
+market intelligence app
